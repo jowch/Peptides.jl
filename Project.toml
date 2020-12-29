@@ -1,0 +1,12 @@
+name = "Peptides"
+authors = ["Jonathan Chen <jwhc@ucla.edu>"]
+version = "0.1.0"
+
+[deps]
+AAindex = "1cd36ffe-cb05-4761-9ff9-f7bc1999e190"
+BioSequences = "7e6ae17a-c86d-528c-b3b9-7f778a29fe59"
+
+[compat]
+AAindex = "0.2"
+BioSequences = "2.0"
+julia = "1.5"
